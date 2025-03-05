@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d3efec3a69a3b12",
+        "id": "b9eb761dcfbbbd9a",
         "type": "tabs",
         "children": [
           {
-            "id": "58c66f390d740a5b",
+            "id": "11674aadd6f418b1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "file": "Tech/Containerization/Kubernetes/Kubernetes-for-beginners.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "Kubernetes-for-beginners"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,8 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Tech/Containerization/Kubernetes/Kubernetes-for-beginners.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Kubernetes-for-beginners"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech/Containerization/Kubernetes/Kubernetes-for-beginners.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Kubernetes-for-beginners"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tech/Containerization/Kubernetes/Kubernetes-for-beginners.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Kubernetes-for-beginners"
             }
           },
           {
@@ -192,12 +195,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "58c66f390d740a5b",
+  "active": "11674aadd6f418b1",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Tech/Linux-Services/nginx-in-container.md",
+    "Tech/Containerization/Kubernetes/deployments/deployment-1.yml",
+    "Tech/Containerization/Kubernetes/voting-app/voting-app-deployment.yaml",
+    "Tech/Containerization/Kubernetes/replicasets/replicaset-definition-1.yaml",
+    "Tech/Containerization/Kubernetes/voting-app/voting-app-pod.yaml",
+    "Tech/Containerization/Kubernetes/voting-app/worker-app-pod.yaml",
     "Tech/Containerization/Kubernetes/Kubernetes-for-beginners.md",
     "Tech/Containerization/Kubernetes/Kubernetes-commands.md",
+    "Tech/Linux-Services/nginx-in-container.md",
+    "Untitled.canvas",
     "README.md"
   ]
 }
