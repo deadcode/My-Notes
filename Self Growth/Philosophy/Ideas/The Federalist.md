@@ -1,0 +1,1 @@
+The Federalist is a collection of 85 articles and essays written under the pseudonym "Publius" by Alexander Hamilton, James Madison, and John Jay to promote the ratification of the United States Constitution.

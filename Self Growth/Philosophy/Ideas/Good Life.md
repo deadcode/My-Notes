@@ -1,0 +1,5 @@
+- The Moral Life - (Socrates, Plato)
+- Life of Pleasure (Hedonism) - (Epicurius)
+- Fulfilled Life - (Aristotle)
+- Meaningful Life
+- Finished Life
