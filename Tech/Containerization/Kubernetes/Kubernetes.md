@@ -1,0 +1,43 @@
+%% Begin Waypoint %%
+- **Beginner Examples**
+  - **deployments**
+    - [[deployment-1.yml]]
+  - **pods**
+    - [[pod-nginx.yaml]]
+    - [[pod-test.yaml]]
+  - **replicasets**
+    - [[new-replicaset-1.yml]]
+    - [[replicaset-definition-1.yaml]]
+  - **services**
+    - [[service-1.yml]]
+  - **voting-app**
+    - [[postgres-deploy.yaml]]
+    - [[postgres-pod.yaml]]
+    - [[postgres-service.yaml]]
+    - [[redis-deploy.yaml]]
+    - [[redis-pod.yaml]]
+    - [[redis-service.yaml]]
+    - [[result-app-deploy.yaml]]
+    - [[result-app-pod.yaml]]
+    - [[result-app-service.yaml]]
+    - [[voting-app-deployment.yaml]]
+    - [[voting-app-pod.yaml]]
+    - [[voting-app-service.yaml]]
+    - [[worker-app-deploy.yaml]]
+    - [[worker-app-pod.yaml]]
+- [[Kubernetes-commands]]
+- [[Kubernetes-for-beginners]]
+- **local-cluster**
+  - [[local-cluster-using-VMs]]
+  - **ubuntu**
+    - [[allow-bridge-nf-traffic.sh]]
+    - [[cert_verify.sh]]
+    - [[install-docker-2.sh]]
+    - [[install-docker.sh]]
+    - [[update-dns.sh]]
+    - **vagrant**
+      - [[install-guest-additions.sh]]
+      - [[setup-hosts.sh]]
+  - [[Vagrantfile]]
+
+%% End Waypoint %%
