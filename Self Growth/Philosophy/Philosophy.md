@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
 - **[[Ideas]]**
-- **[[People]]**
+- **[[Self Growth/Philosophy/People/People]]**
 
 %% End Waypoint %%

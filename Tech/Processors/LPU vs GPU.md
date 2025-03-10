@@ -1,0 +1,7 @@
+# Differences
+1. **Parallel vs. Sequential Processing.** The key difference between GPUs and Groq’s LPUs is parallel vs sequential processing. GPUs excel at breaking up complex tasks into thousands of tiny computations to be performed simultaneously. But much of AI modeling and [inference](https://www.purestorage.com/knowledge/what-is-ai-inference.html) is sequential in nature, so parallel processing isn’t a particular advantage. An LPU is designed for the tasks that make it possible for AI to understand and generate human language, much of which tends to be sequential.
+2. **Power Efficiency**. When it comes to tasks related to training and using LLMs, things like translation, chatbots, and content generation, the biggest place an LPU is going to outperform a GPU is in terms of [power efficiency](https://blog.purestorage.com/purely-educational/5-ways-to-reduce-your-ai-energy-footprint/).
+3. **Processing Efficiency**. Processing time and energy use are both notably lower when using an LPU for sequential natural language processing tasks. However, that efficiency and speed can lead to **bottlenecks with traditional data storage environments**. An LPU requires a storage solution that keeps pace with its rapid processing capabilities in order to maintain high levels of performance. Latency issues and diminished overall efficiency is possible if data can’t be delivered to the LPU quickly enough, or categorized and stored away afterward.
+
+# Links
+* [LPU vs GPU ](https://blog.purestorage.com/purely-educational/lpu-vs-gpu-whats-the-difference/)
