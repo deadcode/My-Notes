@@ -4,21 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "17b206d6e6329da0",
+        "id": "49ee5f7783405a67",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5b66107f09935e",
+            "id": "ca8201028f7d7ceb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Companies/Companies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Companies"
+            }
+          },
+          {
+            "id": "81c640739317fc81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/GROQ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GROQ"
+            }
+          },
+          {
+            "id": "3608281924f1d7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/People.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "People"
+            }
+          },
+          {
+            "id": "bcca2894cf9b3ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/GROQ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GROQ"
+            }
+          },
+          {
+            "id": "6d213a195e234518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Processors/Processors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Processors"
+            }
+          },
+          {
+            "id": "9e6a61d329bffbb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Processors/Language Processing Unit (LPU).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Language Processing Unit (LPU)"
+            }
+          },
+          {
+            "id": "f8ae3f8b97d35715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Processors/Language Processing Unit (LPU).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Language Processing Unit (LPU)"
+            }
+          },
+          {
+            "id": "87843b39dd306c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Processors/Graphics Processing Unit (GPU).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graphics Processing Unit (GPU)"
+            }
+          },
+          {
+            "id": "f14360da86e28591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/AI & ML/Networking for AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking for AI"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -91,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech/AI & ML/Networking for AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Networking for AI"
             }
           },
           {
@@ -109,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Growth/Philopsophy/People/Friedrich Schiller (1759–1805).md",
+                "file": "Tech/AI & ML/Networking for AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Friedrich Schiller (1759–1805)"
+              "title": "Outgoing links from Networking for AI"
             }
           },
           {
@@ -188,47 +305,48 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7d5b66107f09935e",
+  "active": "f14360da86e28591",
   "lastOpenFiles": [
+    "Tech/AI & ML/Networking for AI.md",
+    "TDB or TODO or Study Backlog.md",
     "README.md",
+    "Companies/Artificial Analysis AI.md",
+    "Tech/Processors/Graphics Processing Unit (GPU).md",
+    "Tech/Processors/Language Processing Unit (LPU).md",
+    "Tech/Processors/LPU vs GPU.md",
+    "Tech/Processors/Processors.md",
+    "Tech/Processors",
+    "Companies/GROQ.md",
+    "People/Jonathan Ross.md",
+    "People/People.md",
+    "People",
+    "Companies/People.md",
+    "Companies/Companies.md",
     "Tech/Tech.md",
-    "Tech/Containerization/Containerization.md",
-    "Self Growth/Philosophy/Ideas/Good Life.md",
-    "Self Growth/Philosophy/Philosophy.md",
-    "Tech/Containerization/Kubernetes/Kubernetes.md",
-    "Tech/Containerization/Kubernetes/Kubernetes-commands.md",
+    "Companies",
+    "Tech/AI & ML/AI & ML.md",
+    "Tech/AI & ML",
+    "Excalidraw/Drawing 2025-03-06 11.41.54.excalidraw.md",
     "Tech/Linux-Services/Linux-Services.md",
     "Tech/Linux-Services/nginx-in-container.md",
+    "Excalidraw",
+    "Self Growth/Philosophy/Philosophy.md",
     "Self Growth/Philosophy/Ideas/Ideas.md",
     "Self Growth/Philosophy/People/People.md",
+    "Tech/Containerization/Kubernetes/Kubernetes.md",
+    "Tech/Containerization/Containerization.md",
+    "Self Growth/Philosophy/Ideas/Good Life.md",
+    "Tech/Containerization/Kubernetes/Kubernetes-commands.md",
     "Self Growth/Philosophy/People/Adam Smith (1723—1790).md",
-    "Self Growth/Philosophy/People/James Madison Jr. (March 16 1751 – June 28, 1836).md",
-    "2025-03-06.md",
-    "Self Growth/Philosophy/People/Friedrich Schiller (1759–1805).md",
-    "Self Growth/Philosophy/People/John Locke (1632—1704).md",
-    "Self Growth/Philosophy/People/Thomas Hobbes (1588-1679).md",
-    "Self Growth/Philosophy/People/Aristotle (384—322 B.C.E.).md",
-    "Self Growth/Philosophy/People/Plato (427—347 B.C.E.).md",
-    "Self Growth/Philosophy/People/Thomas Aquinas (1224_6—1274).md",
-    "Self Growth/Philosophy/People/John Duns Scotus (1266–1308).md",
-    "Self Growth/Philosophy/People/Benedict De Spinoza (1632—1677).md",
-    "Self Growth/Philosophy/People/William of Ockham (Occam, c. 1280—c. 1349).md",
-    "Self Growth/Philosophy/People/Heraclitus (fl. c. 500 B.C.E.).md",
-    "Self Growth/Philosophy/People/Democritus (460—370 B.C.E.).md",
-    "Self Growth/Philosophy/People/Protagoras (fl. 5th c. B.C.E.).md",
     "Self Growth/Philosophy/Ideas",
-    "Untitled",
     "Self Growth/Philosophy/People",
     "Self Growth/Philosophy",
     "Self Growth",
     "Tech/Containerization/Kubernetes/Beginner Examples/voting-app/worker-app-pod.yaml",
-    "Tech/Containerization/Kubernetes/Beginner Examples/voting-app/worker-app-deploy.yaml",
-    "Tech/Containerization/Kubernetes/Beginner Examples/voting-app/voting-app-service.yaml",
-    "Tech/Containerization/Kubernetes/Beginner Examples/voting-app/voting-app-pod.yaml",
-    "Tech/Containerization/Kubernetes/Beginner Examples/voting-app/voting-app-deployment.yaml",
     "Untitled.canvas"
   ]
 }
