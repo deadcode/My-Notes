@@ -5,13 +5,28 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Self Growth\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431394
+      }
+    },
+    {
+      "query": "- path:\"Self Growth\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.26199544270833,
+  "lineSizeMultiplier": 2.27525227864583,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
