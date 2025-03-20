@@ -56,11 +56,11 @@ Master nodes run: Apiserver + etcd + controller + scheduler
 - crictl (cry control) - CLI used to manage the CRI, mostly for debugging.
 
 
-| Tool ->    | CTR        | nerdctl         | crictl                      |
-| ---------- | ---------- | --------------- | --------------------------- |
-| Purpose    | Debugging  | General Purpose | Debugging                   |
-| Communnity | containerd | containerd      | Kubernetes                  |
-| Works with | containerd | containerd      | All CRI compatible runtimes |
+| Tool -> | CTR | nerdctl | crictl |
+| ------- | --- | ------- | -------|
+| Purpose | Debugging | General Purpose | Debugging |
+| Communnity | containerd | containerd | Kubernetes |
+| Works with | containerd| containerd | All CRI compatible runtimes |
 
 # Kubernetes Concepts
 ## Pods
