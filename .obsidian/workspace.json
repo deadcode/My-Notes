@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDB or TODO or Study Backlog.md",
+                "file": "Tech/CS/Frameworks & Libraries/gRPC/gRPC - Modern API and Microservices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDB or TODO or Study Backlog"
+              "title": "gRPC - Modern API and Microservices"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDB or TODO or Study Backlog.md",
+                "file": "Tech/CS/Frameworks & Libraries/gRPC/gRPC - Modern API and Microservices.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TDB or TODO or Study Backlog"
+              "title": "Backlinks for gRPC - Modern API and Microservices"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDB or TODO or Study Backlog.md",
+                "file": "Tech/CS/Frameworks & Libraries/gRPC/gRPC - Modern API and Microservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TDB or TODO or Study Backlog"
+              "title": "Outgoing links from gRPC - Modern API and Microservices"
             }
           },
           {
@@ -251,8 +251,15 @@
   },
   "active": "a3a0a91f060a9fdf",
   "lastOpenFiles": [
-    "Tech/CS/Frameworks/gRPC/gRPC - Modern API and Microservices.md",
+    "Tech/Containerization/Containerization.md",
+    "Tech/Containerization/Kubernetes/Kubernetes.md",
     "TDB or TODO or Study Backlog.md",
+    "Tech/CS/Frameworks & Libraries/OpenSSL/APIs for SSL Server.md",
+    "Tech/CS/Frameworks & Libraries/OpenSSL/APIs for SSL Client.md",
+    "Tech/CS/Frameworks & Libraries/OpenSSL/OpenSSL.md",
+    "Tech/CS/Frameworks & Libraries/OpenSSL",
+    "Tech/CS/Frameworks & Libraries/gRPC/gRPC - Modern API and Microservices.md",
+    "Tech/CS/Programming Languages/Programming Languages.md",
     "Tech/CS/Programming Languages/Go Lang/Go Lang.md",
     "Tech/AI & ML/UEC UET.md",
     "Tech/AI & ML/Networking for AI.md",
@@ -266,7 +273,7 @@
     "Tech/CS/Protocols/HTTP2.md",
     "Tech/CS/Protocols/Protocols.md",
     "Tech/CS/Protocols",
-    "Tech/CS/Frameworks/gRPC/gRPC.md",
+    "Tech/CS/Frameworks & Libraries/gRPC/gRPC.md",
     "Companies/Companies.md",
     "Companies/GROQ.md",
     "People/People.md",
@@ -274,20 +281,14 @@
     "Tech/Processors/Language Processing Unit (LPU).md",
     "Tech/Tech.md",
     "Tech/CS/CS.md",
-    "Tech/CS/Programming Languages/Programming Languages.md",
-    "Tech/CS/Frameworks/Frameworks.md",
-    "Tech/CS/Frameworks/gRPC",
-    "Tech/CS/Frameworks",
+    "Tech/CS/Frameworks & Libraries/Frameworks & Libraries.md",
+    "Tech/CS/Frameworks & Libraries/gRPC",
+    "Tech/CS/Frameworks & Libraries",
     "Tech/CS/Programming Languages/Go Lang",
     "Tech/CS/Programming.md",
     "Tech/CS/Programming Languages",
     "Tech/CS/Programming Languages",
     "Tech/CS",
-    "README.md",
-    "Tech/Processors/LPU vs GPU.md",
-    "Tech/Processors",
-    "People/Jonathan Ross.md",
-    "Companies/People.md",
     "Untitled.canvas"
   ]
 }

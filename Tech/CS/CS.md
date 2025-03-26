@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **[[Frameworks]]**
+- **[[Frameworks & Libraries]]**
 - **[[Programming Languages]]**
 - **[[Protocols]]**
 

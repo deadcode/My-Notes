@@ -2,3 +2,4 @@
 * HTTP1 vs HTTP2 vs HTTP3
 * Redis vs Memcached vs ?? - which is best in memory key value store
 * Architecture Data Records
+* Openssl API workflow for client and servers

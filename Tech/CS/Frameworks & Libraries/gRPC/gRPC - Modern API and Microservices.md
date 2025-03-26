@@ -32,4 +32,11 @@ Then, once you’ve specified your data structures, you use the protocol buffer 
 | Actions      | Free form                 | Limited verbs (GET/POST/UPDATE/DELETE) |
 
 # Links
+* [gRPC Go Basic Tutorial](https://grpc.io/docs/languages/go/basics/)
 * [gRPC course & Sample](https://github.com/Clement-Jean/grpc-go-course)
+* [Evans CLI - Universal gRPC Client ](https://github.com/ktr0731/evans) - Implemented using gRPC Reflection capabilities
+* [GRPC server Reflection Protocol](https://github.com/grpc/grpc/blob/master/doc/server-reflection.md)
+* [GRPC C++ Reflection and grcp_cli tool](https://grpc.github.io/grpc/cpp/md_doc_server_reflection_tutorial.html)
+* [gRPC Curl](https://github.com/fullstorydev/grpcurl) - Use like Curl or Postman
+* [Google gRPC Pub/Sub Service](https://github.com/googleapis/googleapis/blob/master/google/pubsub/v1/pubsub.proto)
+* [Google gRPC Spanner APIs](https://github.com/googleapis/googleapis/blob/master/google/spanner/v1/spanner.proto)
