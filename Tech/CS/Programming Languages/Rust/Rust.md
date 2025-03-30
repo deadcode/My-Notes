@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **[[Go Lang]]**
-- **[[Rust]]**
+- [[Command Reference]]
+- [[Resources]]
 
 %% End Waypoint %%

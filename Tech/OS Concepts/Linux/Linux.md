@@ -1,5 +1,4 @@
 %% Begin Waypoint %%
-- **[[Go Lang]]**
-- **[[Rust]]**
+- [[System Call Implementation]]
 
 %% End Waypoint %%

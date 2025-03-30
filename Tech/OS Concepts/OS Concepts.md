@@ -1,5 +1,4 @@
 %% Begin Waypoint %%
-- **[[Go Lang]]**
-- **[[Rust]]**
+- **[[Linux]]**
 
 %% End Waypoint %%
