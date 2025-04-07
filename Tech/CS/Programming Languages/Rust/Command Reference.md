@@ -2,9 +2,10 @@
 Cargo is the [Rust](https://www.rust-lang.org/) [_package manager_](https://doc.rust-lang.org/cargo/appendix/glossary.html#package-manager "\"package manager\" (glossary entry)"). Cargo downloads your Rust [package](https://doc.rust-lang.org/cargo/appendix/glossary.html#package "\"package\" (glossary entry)")’s dependencies, compiles your packages, makes distributable packages, and uploads them to [crates.io](https://crates.io/), the Rust community’s [_package registry_](https://doc.rust-lang.org/cargo/appendix/glossary.html#package-registry "\"package registry\" (glossary entry)").
 
 ## Commands
-* Create new project:
+* Create new project: A project name cannot begin with a number.
 ``` shell
 cargo new <project name>
+cargo new <folder name> --name <project name> // Having a folder name different from the project name
 ```
  * Build project
  ``` shell

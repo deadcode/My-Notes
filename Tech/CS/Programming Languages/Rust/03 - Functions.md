@@ -29,8 +29,8 @@ fn some_calc(x: i32, y: i32) -> (i32, i32, i32) {
 ```
 The Tuple return value can be assigned to a variable or deconstructed.
 ```rust
-let result: (i32, i32, i32) = some_calc(x: 10, y: 5)
-let (mul: i32, sum: i32, dif: i32) = some_calc(x:10, y: 5)
+let result: (i32, i32, i32) = some_calc(x: 10, y: 5);
+let (mul: i32, sum: i32, dif: i32) = some_calc(x:10, y: 5);
 ```
 ## Code Block
 Any block of code enclosed using braces "{}". Like a function, a block of code can also return a value. The last expression in the block is the return value.
@@ -43,3 +43,20 @@ let full_name: String = { // Return value from block stored in a variable
 ```
 ### Code Block vs Function
 Both have similar use, however a code block cannot be re-used unlike a function and a unlike a function a code block cannot take any parameters.
+
+## Labels
+A block of code can be given a name label. A label is created using a tick "'" syntax followed by a colon ":". The label can be used to "break" from a block of code.
+```rust
+let score: u32 = 98;
+let grade = 'block: { // Define a named block "block"
+	if score >= 90 {
+		break 'block 'A' // break from named block and return expr 'A'
+	} else if score >= 80 {
+		break 'block 'B'
+	} else if score >= 70 {
+		'C' // Can also return expr 'C' without "break" as there is no nested scope.
+	} else {
+		'F'
+	}
+}; // Semi-colon needed as this is an assignment statement
+```

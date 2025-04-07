@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "64f3b746a293a3f4",
+        "id": "1d0c961d028c8675",
         "type": "tabs",
         "children": [
           {
-            "id": "e3db2fa52ec4574c",
+            "id": "1bc3d24cea014209",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "08 - Borrowing"
             }
           }
         ]
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 08 - Borrowing"
             }
           },
           {
@@ -112,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 08 - Borrowing"
             }
           },
           {
@@ -194,10 +197,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e3db2fa52ec4574c",
+  "active": "1bc3d24cea014209",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Tech/CS/Programming Languages/Rust/07 - Basic Ownership.md",
+    "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
+    "Tech/CS/Programming Languages/Rust/06 - Basic Input Output.md",
+    "Tech/CS/Programming Languages/Rust/01 - Basic Concepts.md",
+    "Tech/CS/Programming Languages/Rust/05 - Loops.md",
+    "Tech/CS/Programming Languages/Rust/04 - Conditionals.md",
+    "Tech/CS/Programming Languages/Rust/03 - Functions.md",
+    "Tech/CS/Programming Languages/Rust/02 - Data Types.md",
+    "Tech/CS/Programming Languages/Rust/00 - Resources.md",
+    "Tech/CS/Programming Languages/Rust/Command Reference.md",
+    "Tech/CS/Programming Languages/Rust/Rust.md",
+    "Tech/CS/Programming Languages/Rust/Resources.md",
+    "Tech/CS/Programming Languages/Programming Languages.md",
+    "Tech/CS/Programming Languages/Go Lang/Go Lang.md",
+    "Tech/CS/Programming Languages/Rust",
     "TDB or TODO or Study Backlog.md",
+    "Tech/OS Concepts/Linux/System Call Implementation.md",
+    "Tech/OS Concepts/Linux/Linux.md",
+    "Tech/OS Concepts/OS Concepts.md",
+    "Tech/OS Concepts/Linux",
+    "Tech/OS Concepts",
+    "conflict-files-obsidian-git.md",
     "Tech/CS/Protocols/Protocols.md",
     "Tech/AI & ML/Networking for AI.md",
     "Tech/CS/Frameworks & Libraries/gRPC/gRPC - Modern API and Microservices.md",
@@ -205,35 +228,15 @@
     "Tech/Containerization/Kubernetes/Kubernetes.md",
     "Tech/CS/Frameworks & Libraries/OpenSSL/APIs for SSL Server.md",
     "Tech/CS/Frameworks & Libraries/OpenSSL/APIs for SSL Client.md",
-    "Tech/CS/Frameworks & Libraries/OpenSSL/OpenSSL.md",
     "Tech/CS/Frameworks & Libraries/OpenSSL",
-    "Tech/CS/Programming Languages/Programming Languages.md",
-    "Tech/CS/Programming Languages/Go Lang/Go Lang.md",
-    "Tech/AI & ML/UEC UET.md",
     "Tech/AI & ML/Images/UALink and UET.png",
     "Tech/AI & ML/Images",
     "Tech/AI & ML/untitled folder",
     "Tech/AI & ML/UALink and UET.png",
-    "Tech/Processors/Graphics Processing Unit (GPU).md",
-    "Companies/Artificial Analysis AI.md",
-    "Tech/Containerization/Kubernetes/Kubernetes-for-beginners.md",
-    "Tech/CS/Protocols/HTTP2.md",
     "Tech/CS/Protocols",
-    "Tech/CS/Frameworks & Libraries/gRPC/gRPC.md",
-    "Companies/Companies.md",
-    "Companies/GROQ.md",
-    "People/People.md",
-    "Tech/Processors/Processors.md",
-    "Tech/Processors/Language Processing Unit (LPU).md",
-    "Tech/Tech.md",
-    "Tech/CS/CS.md",
-    "Tech/CS/Frameworks & Libraries/Frameworks & Libraries.md",
     "Tech/CS/Frameworks & Libraries/gRPC",
     "Tech/CS/Frameworks & Libraries",
     "Tech/CS/Programming Languages/Go Lang",
-    "Tech/CS/Programming Languages",
-    "Tech/CS/Programming Languages",
-    "Tech/CS",
     "Untitled.canvas"
   ]
 }
