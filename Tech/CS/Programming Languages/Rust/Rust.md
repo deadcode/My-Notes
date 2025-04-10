@@ -8,6 +8,7 @@
 - [[06 - Basic Input Output]]
 - [[07 - Basic Ownership]]
 - [[08 - Borrowing]]
+- [[09 - Custom Type Struct]]
 - [[Command Reference]]
 
 %% End Waypoint %%

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
+                "file": "Tech/CS/Programming Languages/Rust/09 - Custom Type Struct.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "08 - Borrowing"
+              "title": "09 - Custom Type Struct"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
+                "file": "Tech/CS/Programming Languages/Rust/09 - Custom Type Struct.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 08 - Borrowing"
+              "title": "Backlinks for 09 - Custom Type Struct"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
+                "file": "Tech/CS/Programming Languages/Rust/09 - Custom Type Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 08 - Borrowing"
+              "title": "Outgoing links from 09 - Custom Type Struct"
             }
           },
           {
@@ -199,14 +199,15 @@
   },
   "active": "1bc3d24cea014209",
   "lastOpenFiles": [
+    "Tech/CS/Programming Languages/Rust/09 - Custom Type Struct.md",
+    "Tech/CS/Programming Languages/Rust/02 - Data Types.md",
     "Tech/CS/Programming Languages/Rust/07 - Basic Ownership.md",
+    "Tech/CS/Programming Languages/Rust/01 - Basic Concepts.md",
     "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
     "Tech/CS/Programming Languages/Rust/06 - Basic Input Output.md",
-    "Tech/CS/Programming Languages/Rust/01 - Basic Concepts.md",
     "Tech/CS/Programming Languages/Rust/05 - Loops.md",
     "Tech/CS/Programming Languages/Rust/04 - Conditionals.md",
     "Tech/CS/Programming Languages/Rust/03 - Functions.md",
-    "Tech/CS/Programming Languages/Rust/02 - Data Types.md",
     "Tech/CS/Programming Languages/Rust/00 - Resources.md",
     "Tech/CS/Programming Languages/Rust/Command Reference.md",
     "Tech/CS/Programming Languages/Rust/Rust.md",
@@ -227,7 +228,6 @@
     "Tech/Containerization/Containerization.md",
     "Tech/Containerization/Kubernetes/Kubernetes.md",
     "Tech/CS/Frameworks & Libraries/OpenSSL/APIs for SSL Server.md",
-    "Tech/CS/Frameworks & Libraries/OpenSSL/APIs for SSL Client.md",
     "Tech/CS/Frameworks & Libraries/OpenSSL",
     "Tech/AI & ML/Images/UALink and UET.png",
     "Tech/AI & ML/Images",

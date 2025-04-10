@@ -1,5 +1,5 @@
 # What is borrowing
-Setting a reference to data is called borrowing. It is similar to using Pointers in C/C++ but has some constraints. A reference is created using the "&" operator (similar to taking address-of a variable in C/C++). The reference itself can be mutable or immutable. Just like C/C++ the value of reference can be accessed using the "* " operator.
+Setting a reference to data is called borrowing. It is similar to using Pointers in C/C++ but has some constraints. A reference is created using the "&" operator (similar to taking address-of a variable in C/C++). The reference itself can be mutable or immutable. Just like C/C++ the value of reference can be accessed or de-referenced using the "* " operator.
 ```rust
 let a: i32 = 10; // Define a value
 let y: &i32 = &a; // Define y as immutable reference to a(10). 'y' cannot be used to modify value of a.
