@@ -9,6 +9,7 @@
 - [[07 - Basic Ownership]]
 - [[08 - Borrowing]]
 - [[09 - Custom Type Struct]]
+- [[10 - Custom Type Enum]]
 - [[Command Reference]]
 
 %% End Waypoint %%

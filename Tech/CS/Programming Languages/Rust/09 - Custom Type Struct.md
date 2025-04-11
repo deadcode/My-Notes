@@ -219,8 +219,8 @@ impl Car {
 	   Self {
 		   onwer: name,
 		   year: year,
-		   fuel_level: 0.0,
-		   price: 0,
+		   fuel_level: 0.0, // default value
+		   price: 0, // default value
 	   }
 	}
 }
