@@ -10,6 +10,7 @@
 - [[08 - Borrowing]]
 - [[09 - Custom Type Struct]]
 - [[10 - Custom Type Enum]]
+- [[11 - Custom Type Const, Type & Static]]
 - [[Command Reference]]
 
 %% End Waypoint %%
