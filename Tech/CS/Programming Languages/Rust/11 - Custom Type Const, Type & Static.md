@@ -62,7 +62,7 @@ impl Token {
 	fn new() -> Self {
 	   static mut COUNTER: u32 = 1; // Global COUNTER created inside the scope of new() function
 	   let inner = unsafe {COUNTER+=1; COUNTER}; // unsafe block used because COUNTER is not locked by a MUTEX
-	   Token(inner) // return ownership of new value
+	   Token(inner) // Create Token with default constructor and return ownership of new value
 	}
 }
 

@@ -11,6 +11,8 @@
 - [[09 - Custom Type Struct]]
 - [[10 - Custom Type Enum]]
 - [[11 - Custom Type Const, Type & Static]]
+- [[12 - (Irrefutable) Patterns]]
+- [[13 - 'let' Control Flow]]
 - [[Command Reference]]
 
 %% End Waypoint %%

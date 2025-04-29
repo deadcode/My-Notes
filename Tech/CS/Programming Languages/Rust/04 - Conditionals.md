@@ -72,3 +72,26 @@ let grade: char = match scrore {
 	_        => 'F',
 }; // Semi-colon at end
 ```
+## Binding Arm Patterns
+The value pattern in the arm of the match can be bound a local (scope of the arm expression) to see what the match was. The binding is done with `@` keyword.
+```Rust
+let input = 'w';
+match input {
+    'q'                             => println!("Quitting"),
+    dir @ ('a' | 's' | 'w' | 'd')   => println!("Moving around: {dir}"), // Scope of dir is limited to current Arm
+    steps @ '0'..='9'               => println!("Number input {steps}"), // steps is bound to whatever value the pattern matches
+    _                               => println!("Something else"),
+}
+```
+## Match Guard
+A conditional match guard on the causes the arm to match only if the condition is true. Just like the `@` binding the `key` is bound to the matching pattern.
+```Rust
+let input = 'w';
+match input {
+    'q'                             => println!("Quitting"),
+    dir @ ('a' | 's' | 'w' | 'd')   => println!("Moving around: {dir}"),
+    steps @ '0'..='9'               => println!("Number input {steps}"),
+    key if key.is_lowercase()       => println!("Lowercase: {key}"), // key is bound only if conditional is_lowercase() is true
+    _                               => println!("Something else"),
+}
+```
