@@ -13,6 +13,7 @@
 - [[11 - Custom Type Const, Type & Static]]
 - [[12 - (Irrefutable) Patterns]]
 - [[13 - 'let' Control Flow]]
+- [[14 - stdlib - Option & Result]]
 - [[Command Reference]]
 
 %% End Waypoint %%
