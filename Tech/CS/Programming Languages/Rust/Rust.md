@@ -14,6 +14,8 @@
 - [[12 - (Irrefutable) Patterns]]
 - [[13 - 'let' Control Flow]]
 - [[14 - stdlib - Option & Result]]
+- [[15 - stdlib - String]]
+- [[16 - stdlib - Vec]]
 - [[Command Reference]]
 
 %% End Waypoint %%
