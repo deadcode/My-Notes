@@ -16,6 +16,7 @@
 - [[14 - stdlib - Option & Result]]
 - [[15 - stdlib - String]]
 - [[16 - stdlib - Vec]]
+- [[17 - stdlib - HashMap]]
 - [[Command Reference]]
 
 %% End Waypoint %%
