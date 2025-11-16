@@ -43,7 +43,7 @@ Stack
 When defining a variable, the variable is said to "own" the value of the variable. Rust allows only single (one) owner for any value.
 
 ## Copy vs Move semantics
-In Rust assignment for scalar data types works just like any other languages. The value of the variable is copies and modifying one does not affect the other (this is called the copy semantics for scalar data types).
+In Rust assignment for scalar data types works just like any other languages. The value of the variable is copied and modifying one does not affect the other (this is called the copy semantics for scalar data types).
 For all other types, Rust implements the move semantics. When assigning one variable to another, the ownership of the value get transferred to the new variable. After the assignment the original variable is no longer in scope and accessing the value through it will result in an error. The same happens when a variable is passed as a function argument (the ownership of the value is transferred to the function parameter).
 ```rust
 let x: i32 = 10;

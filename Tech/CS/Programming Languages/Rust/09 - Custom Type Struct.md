@@ -22,7 +22,7 @@ fn main() {
 	}; // Error: missing intilizer for price
 }
 ```
-Note: Unlike C++ structs cannot be inherited in Rust.
+Note: Unlike C++, structs cannot be inherited in Rust.
 As in example above, all initializers for structs need to be complete. Any values omitted in initialization will result in compilation error.
 Fields of a `struct` are accessed similar to C/C++ using the dot field name notation.
 ```rust
@@ -62,7 +62,7 @@ println!("Extracted my_car1: Year = {my_car1_year}, Owner = {my_car1_owner}"); /
 println!("my_car1: Year = {}, Owner = {}", my_car1.year, my_car1.owner); // Error: borrow of moved value: `my_car1.owner`
 ```
 ## Initializers
-New `struct` variables can be initialized from existing variables values by coping using the double dot `..` notation. The source of values is put after the `..` in the initializer and has to be the last element of the initializer.
+New `struct` variables can be initialized from existing struct variables values by copying using the double dot `..` notation. The source of values is put after the `..` in the initializer and has to be the last element of the initializer.
 ```rust
 #[derive(Debug)]
 struct Car { // Type defined with struct keyword

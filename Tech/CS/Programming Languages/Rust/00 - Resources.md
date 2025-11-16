@@ -13,7 +13,7 @@
 2. [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html : The book contains techniques that can improve the performance, speed and memory usage
 3. [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html) : It contains many examples and codes that explains the details when writing unsafe Rust programs.
 4. [Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) : Basics of linked lists and different types of smart pointers in Rust. 
-5. [Rust Programming Tips](https://github.com/ferrous-systems/elements-of- rust/blob/master/README.md) : Useful programming examples and tips for effective rust programming.
+5. [Rust Programming Tips](https://github.com/ferrous-systems/elements-of-rust/blob/master/README.md) : Useful programming examples and tips for effective rust programming.
 
 # Official Documentation 
 1. [Standard Library](https://doc.rust-lang.org/std/index.html  ) : Comprehensive guide to the Rust standard library APIs. 

@@ -17,6 +17,7 @@
 - [[15 - stdlib - String]]
 - [[16 - stdlib - Vec]]
 - [[17 - stdlib - HashMap]]
+- [[18 - Code Organization - Modules, Crates and Packages]]
 - [[Command Reference]]
 
 %% End Waypoint %%

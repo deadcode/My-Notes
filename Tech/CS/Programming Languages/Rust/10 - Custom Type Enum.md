@@ -62,6 +62,7 @@ fn process_message(msg: Message) {
 }
 ```
 A common pattern in Rust is to use `match` on `enum`. The benefit of this is that Rust enforces the `match` patterns to be exhaustive, every variant of the `enum` will get matched.
+
 Just like Structs, enums can also use the `impl` implement block to write "methods" that operate on them.
 ```rust
 enum Message {

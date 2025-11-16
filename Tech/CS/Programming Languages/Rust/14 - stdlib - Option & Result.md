@@ -112,8 +112,8 @@ fn is_a_student(name: &String, student_list: &Vec<Student>) -> Result<(), String
 	       return Ok(()); // Return Ok with empty/unit value since we only care about the return status not the value
 	   }
 	}
-	Err(String::from("Student not found")) // Error string for what went wrong
-} 
+	Err (String::from("Student not found")) // Error string for what went wrong
+}
 
 fn main() {
 	let student_list: Vec<Student> = vec![

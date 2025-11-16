@@ -1,0 +1,5 @@
+As the code base grows, it needs to organized into multiple folders and files. The code organization allows grouping similar functionality together to facilitate navigation as well as build abstraction that allows to hide implementation of specific functions and lastly allow code reuse. Rust allows control over what parts of the code are public or private, which function are in scope and how code is laid out in the filesystem. All these features of Rust are collectively referred to as the `Module System`. Collectively the `Module System` includes:
+* Packages: Highest level of organizing that includes crates
+* Crates: Unit of compilation that creates a binary of a library and includes a tree of modules
+* Modules (and use): Allows organizing the code, scope of symbols and privacy of paths
+* Paths: A way to name and access items (functions, modules, structs etd)

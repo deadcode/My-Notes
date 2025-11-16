@@ -10,7 +10,7 @@ let b: mut i32 = 20; // Define a mutable value
 }
 println!("a={a}, y={y}, b={b}") // Prints: a=10, y=10, b=30
 ```
-Above, 'y' is an immutable reference to 'a' allowing the value '10' to be accessed using both 'a' and 'y' since ownership is not transferred. In contrast, 'z' is a mutable reference to a mutable value '20' through variable 'b'. The reference 'z' can be used modify the value of 'b'. NOTE: 'z' is in a difference scope than 'b', see borrow checking rules for exclusive references below.
+Above, 'y' is an immutable reference to 'a' allowing the value '10' to be accessed using both 'a' and 'y' since ownership is not transferred. In contrast, 'z' is a mutable reference to a mutable value '20' through variable 'b'. The reference 'z' can be used modify the value of 'b'. NOTE: 'z' is in a different scope than 'b', see borrow checking rules for exclusive references below.
 # Why use borrowing
 Using borrowing (or references) prevents copying or cloning (for basic types or user types that implement copy trait). This allows for compiler to do memory optimizations. Second with borrowing the ownership of the value/data is NOT transferred, so the original value can continue to be used.
 # Borrow Checking

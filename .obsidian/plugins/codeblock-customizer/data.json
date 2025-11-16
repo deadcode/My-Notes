@@ -261,6 +261,137 @@
           "languageSpecificColors": {}
         }
       }
+    },
+    "MyObsidian": {
+      "baseTheme": "Obsidian",
+      "settings": {
+        "codeblock": {
+          "enableLineNumbers": false,
+          "enableActiveLineHighlight": true,
+          "codeBlockBorderStylingPosition": "disable",
+          "showIndentationLines": true,
+          "enableLinks": false,
+          "enableLinkUpdate": false,
+          "enableBracketHighlight": true,
+          "highlightNonMatchingBrackets": true,
+          "inverseFold": false,
+          "enableSelectionMatching": true,
+          "unwrapcode": false,
+          "buttons": {
+            "alwaysShowButtons": false,
+            "alwaysShowCopyCodeButton": false,
+            "enableSelectCodeButton": false,
+            "enableDeleteCodeButton": false,
+            "enableWrapCodeButton": false
+          }
+        },
+        "textHighlight": {
+          "lineSeparator": "",
+          "textSeparator": ""
+        },
+        "semiFold": {
+          "enableSemiFold": false,
+          "visibleLines": 5,
+          "showAdditionalUncollapseButon": false
+        },
+        "header": {
+          "boldText": true,
+          "italicText": false,
+          "collapseIconPosition": "middle",
+          "collapsedCodeText": "",
+          "codeblockLangBoldText": true,
+          "codeblockLangItalicText": true,
+          "alwaysDisplayCodeblockLang": true,
+          "alwaysDisplayCodeblockIcon": true,
+          "displayCodeBlockLanguage": true,
+          "displayCodeBlockIcon": true,
+          "disableFoldUnlessSpecified": false
+        },
+        "gutter": {
+          "highlightActiveLineNr": true,
+          "enableHighlight": true
+        },
+        "inlineCode": {
+          "enableInlineCodeStyling": false
+        },
+        "printing": {
+          "enablePrintToPDFStyling": true,
+          "forceCurrentColorUse": false,
+          "uncollapseDuringPrint": true
+        },
+        "common": {
+          "enableInSourceMode": true
+        },
+        "enableEditorActiveLineHighlight": true
+      },
+      "colors": {
+        "dark": {
+          "codeblock": {
+            "activeLineColor": "--color-base-30",
+            "backgroundColor": "--code-background",
+            "highlightColor": "--text-highlight-bg",
+            "alternateHighlightColors": {},
+            "languageBorderColors": {},
+            "textColor": "#A30505",
+            "bracketHighlightColorMatch": "#f33bff",
+            "bracketHighlightColorNoMatch": "#FF0000",
+            "bracketHighlightBackgroundColorMatch": "--color-base-30",
+            "bracketHighlightBackgroundColorNoMatch": "--color-base-30",
+            "selectionMatchHighlightColor": "#99ff7780"
+          },
+          "header": {
+            "backgroundColor": "--code-background",
+            "textColor": "--text-normal",
+            "lineColor": "--color-base-30",
+            "codeBlockLangTextColor": "--code-comment",
+            "codeBlockLangBackgroundColor": "--code-background"
+          },
+          "gutter": {
+            "textColor": "--text-faint",
+            "backgroundColor": "--code-background",
+            "activeLineNrColor": "--text-muted"
+          },
+          "inlineCode": {
+            "backgroundColor": "--code-background",
+            "textColor": "--code-normal"
+          },
+          "editorActiveLineColor": "--color-base-20",
+          "languageSpecificColors": {}
+        },
+        "light": {
+          "codeblock": {
+            "activeLineColor": "--color-base-30",
+            "backgroundColor": "--code-background",
+            "highlightColor": "--text-highlight-bg",
+            "alternateHighlightColors": {},
+            "languageBorderColors": {},
+            "textColor": "#A30505",
+            "bracketHighlightColorMatch": "#f33bff",
+            "bracketHighlightColorNoMatch": "#FF0000",
+            "bracketHighlightBackgroundColorMatch": "--color-base-30",
+            "bracketHighlightBackgroundColorNoMatch": "--color-base-30",
+            "selectionMatchHighlightColor": "#99ff7780"
+          },
+          "header": {
+            "backgroundColor": "--code-background",
+            "textColor": "--text-normal",
+            "lineColor": "--color-base-30",
+            "codeBlockLangTextColor": "--code-comment",
+            "codeBlockLangBackgroundColor": "--code-background"
+          },
+          "gutter": {
+            "textColor": "--text-faint",
+            "backgroundColor": "--code-background",
+            "activeLineNrColor": "--text-muted"
+          },
+          "inlineCode": {
+            "backgroundColor": "--code-background",
+            "textColor": "--code-normal"
+          },
+          "editorActiveLineColor": "--color-base-20",
+          "languageSpecificColors": {}
+        }
+      }
     }
   },
   "ExcludeLangs": "dataview, ad-*",
@@ -271,13 +402,13 @@
         "enableLineNumbers": false,
         "enableActiveLineHighlight": true,
         "codeBlockBorderStylingPosition": "disable",
-        "showIndentationLines": false,
+        "showIndentationLines": true,
         "enableLinks": false,
         "enableLinkUpdate": false,
         "enableBracketHighlight": true,
         "highlightNonMatchingBrackets": true,
         "inverseFold": false,
-        "enableSelectionMatching": false,
+        "enableSelectionMatching": true,
         "unwrapcode": false,
         "buttons": {
           "alwaysShowButtons": false,
@@ -297,13 +428,13 @@
         "showAdditionalUncollapseButon": false
       },
       "header": {
-        "boldText": false,
+        "boldText": true,
         "italicText": false,
-        "collapseIconPosition": "hide",
-        "collapsedCodeText": "",
+        "collapseIconPosition": "middle",
+        "collapsedCodeText": " ",
         "codeblockLangBoldText": true,
         "codeblockLangItalicText": true,
-        "alwaysDisplayCodeblockLang": false,
+        "alwaysDisplayCodeblockLang": true,
         "alwaysDisplayCodeblockIcon": true,
         "displayCodeBlockLanguage": true,
         "displayCodeBlockIcon": true,
@@ -317,12 +448,12 @@
         "enableInlineCodeStyling": false
       },
       "printing": {
-        "enablePrintToPDFStyling": false,
+        "enablePrintToPDFStyling": true,
         "forceCurrentColorUse": false,
         "uncollapseDuringPrint": true
       },
       "common": {
-        "enableInSourceMode": false
+        "enableInSourceMode": true
       },
       "enableEditorActiveLineHighlight": true
     },
@@ -395,12 +526,12 @@
       }
     }
   },
-  "ThemeName": "Obsidian",
+  "ThemeName": "MyObsidian",
   "newThemeName": "",
   "alternateHighlightColorName": "",
   "languageBorderColorName": "",
   "foldAllCommand": false,
-  "settingsType": "gutter",
+  "settingsType": "codeblock",
   "langSpecificSettingsType": "",
   "languageSpecificLanguageName": ""
 }
