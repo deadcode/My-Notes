@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1d0c961d028c8675",
+        "id": "ab6bd8f1854c3037",
         "type": "tabs",
         "children": [
           {
-            "id": "1bc3d24cea014209",
+            "id": "d52966f8fa2e3043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/CS/Programming Languages/Rust/18 - Code Organization - Modules, Crates and Packages.md",
+                "file": "Self Growth/Book Reviews/The Body Keeps the Score - Bessel Van Der Kolk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 - Code Organization - Modules, Crates and Packages"
-            }
-          },
-          {
-            "id": "57d3a1f2430d32fc",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://doc.rust-lang.org/reference/names/preludes.html",
-                "title": "Preludes - The Rust Reference",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Preludes - The Rust Reference"
-            }
-          },
-          {
-            "id": "703ee48877af8975",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://doc.rust-lang.org/book/ch07-01-packages-and-crates.html",
-                "title": "Packages and Crates - The Rust Programming Language",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Packages and Crates - The Rust Programming Language"
-            }
-          },
-          {
-            "id": "c97685a7a3c1ce2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/OS Concepts/MacOs/Mac Terminal Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mac Terminal Commands"
-            }
-          },
-          {
-            "id": "4e20ad91bd1e921d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/OS Concepts/MacOs/Mac Terminal Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mac Terminal Commands"
-            }
-          },
-          {
-            "id": "d7138001acae898b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://doc.rust-lang.org/std/index.html",
-                "title": "std - Rust",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "std - Rust"
+              "title": "The Body Keeps the Score - Bessel Van Der Kolk"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/CS/Programming Languages/Rust/11 - Custom Type Const, Type & Static.md",
+                "file": "Tech/CS/Programming Languages/Rust/09 - Custom Type Struct.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11 - Custom Type Const, Type & Static"
+              "title": "Backlinks for 09 - Custom Type Struct"
             }
           },
           {
@@ -184,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/CS/Programming Languages/Rust/11 - Custom Type Const, Type & Static.md",
+                "file": "Tech/CS/Programming Languages/Rust/09 - Custom Type Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11 - Custom Type Const, Type & Static"
+              "title": "Outgoing links from 09 - Custom Type Struct"
             }
           },
           {
@@ -213,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/OS Concepts/MacOs/Mac Terminal Commands.md",
+                "file": "Self Growth/Philopsophy/People/Friedrich Schiller (1759–1805).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mac Terminal Commands"
+              "title": "Outline of Friedrich Schiller (1759–1805)"
             }
           },
           {
@@ -268,46 +197,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4e20ad91bd1e921d",
+  "active": "d52966f8fa2e3043",
   "lastOpenFiles": [
+    "Self Growth/Book Reviews/Four Thousand Weeks (Time Management for Mortals) - Oliver Burkeman.md",
+    "Self Growth/Book Reviews/The Body Keeps the Score - Bessel Van Der Kolk.md",
+    "Self Growth/Book Reviews/Book Reviews.md",
+    "Self Growth/Philosophy/Philosophy.md",
+    "Self Growth/Book Reviews/Grit - Angela Duckworth.md",
+    "Self Growth/Book Reviews/Educated - Tara Westover.md",
+    "Self Growth/Book Reviews/The Courage to Be Disliked - Ichiro Kishimi, Fumitake Koga.md",
+    "Self Growth/Book Reviews/Mastery - Robert Greene.md",
+    "Self Growth/Book Reviews/Breath - James Nestor.md",
+    "Tech/CS/Programming Languages/Rust/17 - stdlib - HashMap.md",
+    "Self Growth/Book Reviews",
     "Tech/CS/Programming Languages/Rust/18 - Code Organization - Modules, Crates and Packages.md",
     "Tech/OS Concepts/MacOs/Mac Terminal Commands.md",
+    "TDB or TODO or Study Backlog.md",
     "Tech/OS Concepts/MacOs",
-    "Tech/CS/Programming Languages/Rust/17 - stdlib - HashMap.md",
-    "Tech/CS/Programming Languages/Rust/00 - Resources.md",
-    "Tech/CS/Programming Languages/Rust/16 - stdlib - Vec.md",
-    "Tech/CS/Programming Languages/Rust/15 - stdlib - String.md",
-    "Tech/CS/Programming Languages/Rust/14 - stdlib - Option & Result.md",
-    "Tech/CS/Programming Languages/Rust/13 - 'let' Control Flow.md",
-    "Tech/CS/Programming Languages/Rust/12 - (Irrefutable) Patterns.md",
-    "Tech/CS/Programming Languages/Rust/11 - Custom Type Const, Type & Static.md",
-    "Tech/CS/Programming Languages/Rust/10 - Custom Type Enum.md",
+    "Tech/AI & ML/Untitled.md",
     "Tech/CS/Programming Languages/Rust/09 - Custom Type Struct.md",
-    "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
+    "Tech/CS/Programming Languages/Rust/02 - Data Types.md",
     "Tech/CS/Programming Languages/Rust/07 - Basic Ownership.md",
+    "Tech/CS/Programming Languages/Rust/01 - Basic Concepts.md",
+    "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
     "Tech/CS/Programming Languages/Rust/06 - Basic Input Output.md",
     "Tech/CS/Programming Languages/Rust/05 - Loops.md",
     "Tech/CS/Programming Languages/Rust/04 - Conditionals.md",
     "Tech/CS/Programming Languages/Rust/03 - Functions.md",
-    "Tech/CS/Programming Languages/Rust/02 - Data Types.md",
-    "Tech/CS/Programming Languages/Rust/01 - Basic Concepts.md",
+    "Tech/CS/Programming Languages/Rust/00 - Resources.md",
     "Tech/CS/Programming Languages/Rust/Command Reference.md",
-    "Tech/AI & ML/Untitled.md",
-    "Tech/AI & ML/AI & ML.md",
-    "Tech/AI & ML/UEC UET.md",
-    "Tech/AI & ML/Networking for AI.md",
-    "Tech/AI & ML/Images/UALink and UET.png",
-    "Tech/Linux-Services/nginx-in-container.md",
+    "Tech/CS/Programming Languages/Rust/Rust.md",
     "Tech/CS/Programming Languages/Rust",
     "Tech/OS Concepts/Linux",
     "Tech/OS Concepts",
     "Tech/CS/Frameworks & Libraries/OpenSSL",
+    "Tech/AI & ML/Images/UALink and UET.png",
     "Tech/AI & ML/Images",
     "Tech/AI & ML/untitled folder",
     "Tech/AI & ML/UALink and UET.png",
     "Tech/CS/Protocols",
     "Tech/CS/Frameworks & Libraries/gRPC",
-    "Tech/CS/Frameworks & Libraries",
     "Untitled.canvas"
   ]
 }
