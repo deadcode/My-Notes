@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Growth/Book Reviews/The Body Keeps the Score - Bessel Van Der Kolk.md",
+                "file": "Self Growth/Book Reviews/Quiet - Susan Cain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Body Keeps the Score - Bessel Van Der Kolk"
+              "title": "Quiet - Susan Cain"
             }
           }
         ]
@@ -199,8 +199,17 @@
   },
   "active": "d52966f8fa2e3043",
   "lastOpenFiles": [
-    "Self Growth/Book Reviews/Four Thousand Weeks (Time Management for Mortals) - Oliver Burkeman.md",
+    "Self Growth/Book Reviews/Sapiens - Yuval Noah Harari.md",
+    "Self Growth/Book Reviews/Quiet - Susan Cain.md",
+    "Self Growth/Book Reviews/As a Man Thinketh - James Allen.md",
+    "Self Growth/Book Reviews/Emotional Intelligence - Daniel Goleman.md",
+    "Self Growth/Book Reviews/Rich Dad Poor Dad - Robert Kiyosaki.md",
+    "Self Growth/Book Reviews/Dopamine Nation - Anna Lembke.md",
+    "Self Growth/Book Reviews/Anti-fragile - Nassim Nicholas Taleb.md",
+    "Self Growth/Book Reviews/The Magic of Thinking Big - David J Schwartz.md",
+    "Self Growth/Book Reviews/Essentialism - Greg McKeown.md",
     "Self Growth/Book Reviews/The Body Keeps the Score - Bessel Van Der Kolk.md",
+    "Self Growth/Book Reviews/Four Thousand Weeks (Time Management for Mortals) - Oliver Burkeman.md",
     "Self Growth/Book Reviews/Book Reviews.md",
     "Self Growth/Philosophy/Philosophy.md",
     "Self Growth/Book Reviews/Grit - Angela Duckworth.md",
@@ -218,15 +227,6 @@
     "Tech/CS/Programming Languages/Rust/09 - Custom Type Struct.md",
     "Tech/CS/Programming Languages/Rust/02 - Data Types.md",
     "Tech/CS/Programming Languages/Rust/07 - Basic Ownership.md",
-    "Tech/CS/Programming Languages/Rust/01 - Basic Concepts.md",
-    "Tech/CS/Programming Languages/Rust/08 - Borrowing.md",
-    "Tech/CS/Programming Languages/Rust/06 - Basic Input Output.md",
-    "Tech/CS/Programming Languages/Rust/05 - Loops.md",
-    "Tech/CS/Programming Languages/Rust/04 - Conditionals.md",
-    "Tech/CS/Programming Languages/Rust/03 - Functions.md",
-    "Tech/CS/Programming Languages/Rust/00 - Resources.md",
-    "Tech/CS/Programming Languages/Rust/Command Reference.md",
-    "Tech/CS/Programming Languages/Rust/Rust.md",
     "Tech/CS/Programming Languages/Rust",
     "Tech/OS Concepts/Linux",
     "Tech/OS Concepts",
