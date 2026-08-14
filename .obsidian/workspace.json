@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Growth/Book Reviews/Quiet - Susan Cain.md",
+                "file": "Self Growth/Book Reviews/Drive - Daniel Pink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quiet - Susan Cain"
+              "title": "Drive - Daniel Pink"
             }
           }
         ]
@@ -199,8 +199,13 @@
   },
   "active": "d52966f8fa2e3043",
   "lastOpenFiles": [
-    "Self Growth/Book Reviews/Sapiens - Yuval Noah Harari.md",
+    "Self Growth/Book Reviews/Tiny Habits - BJ Fogg.md",
+    "Self Growth/Book Reviews/Drive - Daniel Pink.md",
+    "Self Growth/Book Reviews/The Gifts of Imperfection - Brené Brown.md",
+    "Self Growth/Book Reviews/How to talk to anyone - Leil Lowndes.md",
+    "Self Growth/Book Reviews/Book Reviews.md",
     "Self Growth/Book Reviews/Quiet - Susan Cain.md",
+    "Self Growth/Book Reviews/Sapiens - Yuval Noah Harari.md",
     "Self Growth/Book Reviews/As a Man Thinketh - James Allen.md",
     "Self Growth/Book Reviews/Emotional Intelligence - Daniel Goleman.md",
     "Self Growth/Book Reviews/Rich Dad Poor Dad - Robert Kiyosaki.md",
@@ -210,7 +215,6 @@
     "Self Growth/Book Reviews/Essentialism - Greg McKeown.md",
     "Self Growth/Book Reviews/The Body Keeps the Score - Bessel Van Der Kolk.md",
     "Self Growth/Book Reviews/Four Thousand Weeks (Time Management for Mortals) - Oliver Burkeman.md",
-    "Self Growth/Book Reviews/Book Reviews.md",
     "Self Growth/Philosophy/Philosophy.md",
     "Self Growth/Book Reviews/Grit - Angela Duckworth.md",
     "Self Growth/Book Reviews/Educated - Tara Westover.md",
@@ -223,10 +227,6 @@
     "Tech/OS Concepts/MacOs/Mac Terminal Commands.md",
     "TDB or TODO or Study Backlog.md",
     "Tech/OS Concepts/MacOs",
-    "Tech/AI & ML/Untitled.md",
-    "Tech/CS/Programming Languages/Rust/09 - Custom Type Struct.md",
-    "Tech/CS/Programming Languages/Rust/02 - Data Types.md",
-    "Tech/CS/Programming Languages/Rust/07 - Basic Ownership.md",
     "Tech/CS/Programming Languages/Rust",
     "Tech/OS Concepts/Linux",
     "Tech/OS Concepts",
