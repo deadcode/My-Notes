@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Growth/Book Reviews/Drive - Daniel Pink.md",
+                "file": "Self Growth/Book Reviews/The Defining Decade - Meg Jay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drive - Daniel Pink"
+              "title": "The Defining Decade - Meg Jay"
             }
           }
         ]
@@ -199,6 +199,13 @@
   },
   "active": "d52966f8fa2e3043",
   "lastOpenFiles": [
+    "Self Growth/Book Reviews/Boundaries - Henry Cloud and John Townsend.md",
+    "Self Growth/Book Reviews/The Defining Decade - Meg Jay.md",
+    "Self Growth/Book Reviews/Freakonomics - Steven Levitt.md",
+    "Self Growth/Book Reviews/Why We Sleep - Matthew Walker.md",
+    "Self Growth/Book Reviews/The 5 Second Rule - Mel Robbins.md",
+    "Self Growth/Book Reviews/The Inner Game of Tennis - Timothy Gallwey.md",
+    "Self Growth/Book Reviews/Who Moved - Cheese by Spencer Johnson.md",
     "Self Growth/Book Reviews/Tiny Habits - BJ Fogg.md",
     "Self Growth/Book Reviews/Drive - Daniel Pink.md",
     "Self Growth/Book Reviews/The Gifts of Imperfection - Brené Brown.md",
@@ -218,14 +225,7 @@
     "Self Growth/Philosophy/Philosophy.md",
     "Self Growth/Book Reviews/Grit - Angela Duckworth.md",
     "Self Growth/Book Reviews/Educated - Tara Westover.md",
-    "Self Growth/Book Reviews/The Courage to Be Disliked - Ichiro Kishimi, Fumitake Koga.md",
-    "Self Growth/Book Reviews/Mastery - Robert Greene.md",
-    "Self Growth/Book Reviews/Breath - James Nestor.md",
-    "Tech/CS/Programming Languages/Rust/17 - stdlib - HashMap.md",
     "Self Growth/Book Reviews",
-    "Tech/CS/Programming Languages/Rust/18 - Code Organization - Modules, Crates and Packages.md",
-    "Tech/OS Concepts/MacOs/Mac Terminal Commands.md",
-    "TDB or TODO or Study Backlog.md",
     "Tech/OS Concepts/MacOs",
     "Tech/CS/Programming Languages/Rust",
     "Tech/OS Concepts/Linux",
