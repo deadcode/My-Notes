@@ -1,0 +1,21 @@
+# Fooled by Randomness by Nassim Taleb taught me that most of the success I admire and most of the failure I fear are both just noise.
+
+![r/selfimprovement_books - Fooled by Randomness by Nassim Taleb taught me that most of the success I admire and most of the failure I fear are both just noise.](https://preview.redd.it/fooled-by-randomness-by-nassim-taleb-taught-me-that-most-of-v0-t5mti2uq64kh1.jpeg?auto=webp&s=c344648953afcf63c68c1b5331a55a7117247887)
+
+A trader makes $10 million in a year. He writes a book. Gives talks. Gets profiled in magazines. Everyone studies his strategy. He's a genius.
+
+Next year he loses $12 million using the same strategy. Nobody writes about that part.
+
+Nassim Taleb was a Wall Street trader who spent his career watching people confuse luck with skill. Fooled by Randomness is his argument that humans are biologically incapable of understanding the role of chance in their own lives, and that inability is costing them everything.
+
+Three ideas from this book that dismantled how I evaluate myself and everyone around me.
+
+**Survivorship bias is running your entire worldview.** You see the winners. You never see the thousands who did the exact same thing and lost. The entrepreneur who dropped out of college and made millions gets a podcast interview. The ten thousand who dropped out and went nowhere get nothing. Your brain collects the visible survivors, builds a pattern from them, and calls it a strategy. Taleb says the cemetery of failed businesses, careers, and decisions is invisible, and because it's invisible, you systematically overestimate the effectiveness of whatever the survivors did. I used to study successful people obsessively. After reading this I started asking a different question: how many people did exactly this and failed? The answer was always a number that made the strategy look far less reliable.
+
+**You are not as good as your best year or as bad as your worst.** Taleb calls this the problem of "alternative histories." Your life is one path through an infinite number of possible outcomes. The fact that something worked doesn't mean it was a good decision. It might have been a terrible decision that got lucky. The fact that something failed doesn't mean it was a bad decision. It might have been the right call that hit an unlikely obstacle. But your brain evaluates everything by outcome, not process. Good result equals smart. Bad result equals stupid. Taleb says this is the most dangerous error in human cognition because it teaches you the wrong lessons from your own experience. I got a job once through a connection I made by accident at a party I almost didn't attend. I spent years crediting my "networking skills." It was luck. Pure luck. And mistaking it for skill meant I never built actual networking skills because I thought I already had them.
+
+**Noise looks like signal when you zoom in too close.** If you check your investments daily, you'll see constant fluctuation and panic regularly. If you check them yearly, you'll see a trend and stay calm. Same data. Different zoom level. Taleb applies this to everything. Your mood on any given day is noise. Your mood averaged over a month is signal. One client's feedback is noise. Twenty clients' feedback is signal. One bad week at the gym is noise. Three months of consistency is signal. The problem is that modern life forces you to zoom in constantly. Daily metrics. Hourly notifications. Real-time updates on everything. You're drowning in noise and mistaking it for meaningful information. I stopped checking things daily that only matter monthly. The anxiety dropped immediately because I stopped reacting to randomness.
+
+The book's sharpest point: Taleb says the most dangerous person in any field is the lucky idiot who doesn't know he's lucky. He draws conclusions from his success, teaches others his "method," and everyone follows a strategy that was never a strategy at all. It was a coin flip that happened to land heads.
+
+Dense book. Taleb's writing style is arrogant and intentionally provocative. Push through the personality. The ideas underneath will change how you interpret every result in your life.
