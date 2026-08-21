@@ -1,0 +1,19 @@
+# Games People Play by Eric Berne revealed the hidden scripts running underneath every conversation I have and now I can't stop seeing them.
+
+![r/selfimprovement_books - The Psychiatry Resource_ ERIC BERNE, M.D. GEOPES PLAY { THE PSYCHOLOGY OF HUMAN RELATIONSHIPS OVER FIVE MILLION COPIES SOLD LIFE|448](https://preview.redd.it/games-people-play-by-eric-berne-revealed-the-hidden-scripts-v0-p83qdrb7vikh1.jpeg?width=640&crop=smart&auto=webp&s=ba2a3c323c3a5a45b710c6bfd3fb3922767f3258)
+
+Eric Berne was a psychiatrist who noticed that his patients kept ending up in the same conflicts with different people. Different relationships, same argument. Different jobs, same frustration. Same emotional outcome every time like a script being performed by rotating actors.
+
+He called these scripts "games." Not fun games. Psychological games that people play unconsciously to confirm beliefs they've held since childhood. The book was published in 1964. It explains behavior I witnessed yesterday.
+
+Three games I caught myself playing.
+
+**"Why Don't You / Yes But."** Someone shares a problem. You offer a solution. They say "yes but" and explain why it won't work. You offer another. "Yes but." Another. "Yes but." The game continues until the helper gives up frustrated. Berne says the person sharing the problem was never looking for a solution. They were looking for confirmation that their situation is unsolvable. The payoff is helplessness. I realized I play both sides of this game. Sometimes I'm the helper getting drained. Sometimes I'm the person rejecting every solution because being stuck feels safer than trying. Once I saw the pattern I started catching it mid-conversation. Now when someone "yes buts" my third suggestion, I stop offering and ask "what do you actually need from me right now?" The game ends immediately.
+
+**"If It Weren't For You."** You blame someone else for the life you're not living. "I'd start a business if my partner wasn't so risk-averse." "I'd travel if I didn't have this job." "I'd be in better shape if my schedule wasn't so packed." Berne says the person playing this game unconsciously chose the restricting situation because it provides a convenient excuse not to face the fear of actually trying. The partner, the job, the schedule isn't the obstacle. It's the shield. I looked at every "if it weren't for" sentence in my own life and asked a brutal question: if that obstacle disappeared tomorrow, would I actually do the thing? The honest answer was often no. The obstacle was the permission slip to stay still.
+
+**"See What You Made Me Do."** Something goes wrong. Instead of owning it, you redirect blame to whoever is nearby. You burn dinner and snap at your partner for distracting you. You miss a deadline and blame the coworker who sent you an unrelated email. The game's payoff is avoiding responsibility while making someone else feel guilty. Berne says this game is passed down generationally. The parent who says it to the child creates a child who says it to everyone else for the rest of their life. I caught myself doing a subtle version. Not the dramatic blame shift. The quiet one. The sigh that implies someone else caused my frustration without me having to say it directly. Passive. Invisible. Still a game.
+
+Berne's framework underneath all of this is called transactional analysis. Every interaction happens between three ego states: Parent, Adult, and Child. The Parent judges and controls. The Child reacts emotionally. The Adult processes reality clearly. Most games happen when two people are communicating from Parent or Child ego states while believing they're being Adults. The fix is learning to recognize which state you're operating from in real time.
+
+The book was written 60 years ago. The games haven't changed. Your last argument was probably one of them.
