@@ -89,8 +89,9 @@ block
 		end
 	end
 ```
-# Data Structures
 
-## Hash
-Commands for attributes in the hash.
-## Set
+# Redis Keys
+All the keys have to be unique (obv.).
+It is common practice use a common prefix for similar type of keys and seperate key prefix from unique id with either ':' or '#' symbols.
+e.g. 'users:id#1000', 'sessions#3000'.
+NB: Using '#' is faster for internal key lookups.
